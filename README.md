@@ -37,6 +37,9 @@
 
 ## 📂 Projects
 
+### Deepfake Audio Detection Using AI/ML
+Detects fake audio using machine learning techniques and MFCC feature extraction.
+
 ### 🔹 Water Monitoring and Controlling System
 - Developed a system to monitor water level automatically using sensors
 - Helps in efficient water management
