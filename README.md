@@ -81,3 +81,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
