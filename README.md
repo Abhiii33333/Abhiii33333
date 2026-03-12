@@ -1,4 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Mishra</h1>
+<h3 align="center">AI / ML Enthusiast | Computer Science Student</h3>
+
+---
+
+## 🚀 About Me
+- 🎓 B.Tech CSE Student
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📚 Currently learning Python, Machine Learning and AI
+- 🧠 AI/ML Intern at NIELIT Lucknow
+- 💡 Passionate about building smart solutions using technology
+
+---
+
+## 🛠️ Skills
+
+### Programming
+- C
+- Python (Learning)
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### AI / ML
+- Machine Learning Basics
+- Deep Learning Concepts
+- Data Processing
+
+### Tools
+- VS Code
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+### 🔹 Water Monitoring and Controlling System
+- Developed a system to monitor water level automatically using sensors
+- Helps in efficient water management
+
+### 🔹 Smart Stick for Blind People
+- Designed a smart stick that detects obstacles
+- Helps visually impaired people navigate safely
+
+---
+
+## 📊 GitHub Stats
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhiii33333&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+
+📧 Email: abhishekmishraj01@gmail.com  
+
+💼 LinkedIn: (add your linkedin link)
+
+🌐 GitHub: https://github.com/Abhiii33333
+
+---
+
+⭐ *Always learning new technologies and improving coding skills*## Hi there 👋
 
 <!--
 **Abhiii33333/Abhiii33333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
