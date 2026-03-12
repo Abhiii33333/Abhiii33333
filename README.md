@@ -57,7 +57,9 @@
 
 📧 Email: abhishekmishraj01@gmail.com  
 
-💼 LinkedIn: (add your linkedin link)
+💼 LinkedIn: ## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-mishra-2a58a7381?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 🌐 GitHub: https://github.com/Abhiii33333
 
