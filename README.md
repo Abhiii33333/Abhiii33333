@@ -44,9 +44,6 @@ Detects fake audio using machine learning techniques and MFCC feature extraction
 - Developed a system to monitor water level automatically using sensors
 - Helps in efficient water management
 
-### 🔹 Smart Stick for Blind People
-- Designed a smart stick that detects obstacles
-- Helps visually impaired people navigate safely
 
 ---
 
